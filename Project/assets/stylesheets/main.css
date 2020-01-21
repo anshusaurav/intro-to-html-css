@@ -1,0 +1,20 @@
+
+
+a{
+  	font-family: Helvetica;
+  	font-size:18px;
+}
+
+img{
+	display: block;
+	max-width: 75%;
+	height: 300px;
+}
+.social-network{
+	font-size:14px;
+}
+.options{
+	border:1px solid #fff;
+	background: #00b300;
+	font-size: 12px;
+}

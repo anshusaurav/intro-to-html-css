@@ -1,0 +1,13 @@
+.bground{
+  height: 100%;
+  background-color: #cccccc;
+  background-image: radial-gradient(red, yellow);
+}
+#mainheader{
+  font-family: "Comic Sans MS", Times;
+  font-size: 36px;
+}
+p{
+  font-family: Helvetica;
+  font-size:18px;
+}

@@ -1,0 +1,17 @@
+#bground{
+  height: 100%;
+  background-color: #5533cc;
+}
+#abground{
+  height: 100%;
+  background-color: #3344aa;
+}
+#cbground{
+  height: 100%;
+  background-color: #234323;
+}
+
+a{
+  font-family: Helvetica;
+  font-size:18px;
+}
